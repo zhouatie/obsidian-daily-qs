@@ -1,0 +1,29 @@
+omarchy/BarWidget.qml
+  s_c6455dffa23551::t_3523166b4903a7 101
+omarchy/Model.js
+  s_c6455dffa23551::t_eeb5c0fa4d142d 233-282,287-290,292-299,301-305,308,311
+manifest.json
+  s_c6455dffa23551::t_ea053cfa28fcd3 22,71-77
+omarchy/model.test.mjs
+  s_c6455dffa23551::t_8184e2155a4e7a 222-230,232-233,235-236,238-239
+  s_c6455dffa23551::t_a673373c13e2b7 231,234,237
+omarchy/Panel.qml
+  s_c6455dffa23551::t_698bbe2dbb23dc 29,69,295-301,691-709,767,801,803-806,817,820-858
+  s_c6455dffa23551::t_57c434aa5d4784 802
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "841a5afa99f3e974c1b8a774ea3055246eed6951",
+  "prompts": {},
+  "sessions": {
+    "s_c6455dffa23551": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0be36-9c87-7136-a537-2da71995c202",
+        "model": "gemini-3.8-flash"
+      },
+      "human_author": "zhouatie <zhouatie@gmail.com>"
+    }
+  }
+}
