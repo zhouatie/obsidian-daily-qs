@@ -1,0 +1,20 @@
+omarchy/Panel.qml
+  s_c6455dffa23551::t_9503b3b91d3804 767,802,895-913
+  s_c6455dffa23551::t_06aefb901beb5d 914
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "64b35ddd06e254ff7536ca570e3e16470f5e7a7d",
+  "prompts": {},
+  "sessions": {
+    "s_c6455dffa23551": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a0be36-9c87-7136-a537-2da71995c202",
+        "model": "gemini-3.8-flash"
+      },
+      "human_author": "zhouatie <zhouatie@gmail.com>"
+    }
+  }
+}
